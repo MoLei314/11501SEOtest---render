@@ -3,20 +3,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-       <loc>https://takiranaseotest.onrender.com/</loc>
-       <lastmod>2026-08-27T09:03:53+00:00</lastmod>
+       <loc>https://one1501seotest.onrender.com/</loc>
+       <lastmod>2026-08-27T09:22:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
-       <loc>https://takiranaseotest.onrender.com/index.html</loc>
-       <lastmod>2026-08-27T09:03:53+00:00</lastmod>
+       <loc>https://one1501seotest.onrender.com/index.html</loc>
+       <lastmod>2026-08-27T09:22:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>https://takiranaseotest.onrender.com/rana.html</loc>
-       <lastmod>2026-08-27T09:03:53+00:00</lastmod>
+       <loc>https://one1501seotest.onrender.com/rana.html</loc>
+       <lastmod>2026-08-27T09:22:25+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://one1501seotest.onrender.com/soyo.html</loc>
+       <lastmod>2026-08-27T09:22:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
